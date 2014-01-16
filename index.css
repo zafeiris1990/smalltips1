@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Δεκ 2013, 12:21:06 μμ
+    Author     : Jim
+*/
+body{
+    
+  
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+  background-position: center;
+}
+    
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+#smallTips {
+    
+    width:230px;
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#login {
+    width:330px;    
+    margin-left:auto;
+}
+
+
+#register {
+    width:  35%;
+    padding-top: 5%;
+    margin-left:auto;
+}
+
+#categories {
+    width:  35%;
+    padding-top: 5%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#internetCat {
+    width:  35%;
+    padding-top: 10%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+#hardwareCat {
+    width:  22%;
+    padding-top: 10%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+#softwareCat {
+    width:  35%;
+    padding-top: 10%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
